@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on EAL as a Web Developer for several clients.<br>I'm currently learning React.js to improve my Web Development Skills<br>I got knowledge with FrontEnd Web Development using HTML, CSS, Javascript and some basic knowledge using<br>react.js and nodejs.
+I'm currently working on EAL as a Web Developer for several clients.<br>I'm currently learning React.js to improve my Web Development Skills<br>I got knowledge with FrontEnd Web Development using HTML, CSS, Javascript and some basic knowledge using react.js and nodejs.
 
 
 ## 🌐 Socials:
